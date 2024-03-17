@@ -1,4 +1,4 @@
-#pip install kivy
+#pip install kivy.app
 
 from kivy.app import App
 from kivy.uix.label import Label
